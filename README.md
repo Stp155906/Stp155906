@@ -10,7 +10,7 @@ background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.
  ">
 
 <p align="center"> 
-<a href="#"><img width="20%" height="auto" src="Screen Shot 2021-09-14 at 8.48.04 PM.png" height="175px"/></a>
+<a href="#"><img width="40%" height="auto" src="Screen Shot 2021-09-14 at 8.48.04 PM.png" height="175px"/></a>
 </p>
 
 
