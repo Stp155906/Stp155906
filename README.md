@@ -22,18 +22,18 @@ background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.
 ## 🤍 About Me
 
 
-- ♎ I’m a Developer, Here is my current progress  **[Portfolio](https://myportfoliocode.firebaseapp.com/)**
+- ♎ I’m a Developer, Here is my current portfolio progress  **[Portfolio](https://myportfoliocode.firebaseapp.com/)**
 
 - 🌱 I’m currently enrolled in  **Advanced Data Structures, Discrete Structures, Computer Organization, at CSUN.**
 
-- ✨ I’m currently working on some personal projects to develop widgets in  **Swift**
+- ✨ I’m currently working on some personal projects to develop student widgets and am learning how to automate more than just zoom class login bots. I am learning to use a variety of languages, but am most comfortable with C++, Java and learning implementation of python/Swift  **Swift**
 
-- 👨‍💻 All of my projects are available at **[My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/
+- 👨‍💻 Some Projects are Private but the ones that are related to UX Designs can be found here at **[My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/
 )**
 
 - 📫 How to reach me **stkperez42@gmail.com**
 
-- ⚡ Fun fact **I love to travel, and my favorite hobbies are photography, and portrait painting when not creating digital designs or development.**
+- ⚡ Fun fact **I love to travel, so much so that I know papiamentio (yet to be documented, as its the official language of Aruba locals) and my favorite hobbies are photography, and portrait painting when not creating digital designs or development.**
   </p>
 
 ## 🚀 Languages and Tools: markdown
