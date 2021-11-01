@@ -98,5 +98,11 @@ background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.
     <img src="https://komarev.com/ghpvc/?username=Stp155906">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Stp155906?label=Followers&style=social" alt="GitHub Badge"></a>
+     
+ <h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/Stp155906/count.svg" />
+</h3>
+
 </body>
 
