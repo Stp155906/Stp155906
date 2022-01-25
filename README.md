@@ -24,7 +24,7 @@ background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.
 
 - ♎ I’m a Developer, Here is my current portfolio progress  **[Portfolio](https://myportfoliocode.firebaseapp.com/)**
 
-- 🌱 I’m currently enrolled in  **Advanced Data Structures, Discrete Structures, Computer Organization, at CSUN.**
+- 🌱 I’m currently enrolled in  **Quantum Physics, Automata & Language, Intro to Operating Systems, Concepts of Programming at CSUN.**
 
 - ✨ I’m currently working on some personal projects to develop student widgets and am learning how to automate more than just zoom class login bots. I am learning to use a variety of languages, but am most comfortable with C++, Java and learning implementation of python/Swift  **Swift**
 
