@@ -15,7 +15,7 @@ background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.
 
 
 
-#<h3 align="center">  CEO Board Director of Quantum Rabbit Hole Flds, near Akashic Record Lane.   </h3>
+#<h3 align="center"> Don't be the rabbit.. be the black hole.  </h3>
 
 <p align = "center">
 ________________________________________________________________________________________________________________________________________________
