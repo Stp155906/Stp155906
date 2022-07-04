@@ -14,27 +14,20 @@ background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.
 </p>
 
 
-**<h1 align = "center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Shantalia</h1>**
-<h3 align="center"> Artificially Intelligent </h3>
+
+#<h3 align="center">  CEO Board Director of Quantum Rabbit Hole Flds, near Akashic Record Lane.   </h3>
 
 <p align = "center">
+________________________________________________________________________________________________________________________________________________
 
-## 🤍 About Me
+- 🌱 JPL NASA Earth System Teleconnections Fellowship Researcher  
 
+-  ⚡ Full Stack AI + 🔥 UX Developer + ✨ Feminista
 
-- ♎ I’m a Developer, Here is my current portfolio progress  **[Portfolio](https://myportfoliocode.firebaseapp.com/)**
-
-- 🌱 I’m currently enrolled in  **Quantum Physics, Automata & Language, Intro to Operating Systems, Concepts of Programming at CSUN.**
-
-- ✨ I’m currently working on some personal projects to develop student widgets and am learning how to automate more than just zoom class login bots. I am learning to use a variety of languages, but am most comfortable with C++, Java and learning implementation of python/Swift  **Swift**
-
-- 👨‍💻 Some Projects are Private but the ones that are related to UX Designs can be found here at **[My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/
+- 👨‍💻 Linkedin **[My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/
 )**
 
 - 📫 How to reach me **stkperez42@gmail.com**
-
-- ⚡ Fun fact **I love to travel, so much so that I know papiamentio (yet to be documented, as its the official language of Aruba locals) and my favorite hobbies are photography, and portrait painting when not creating digital designs or development.**
-  </p>
 
 ## 🚀 Languages and Tools: markdown
 
