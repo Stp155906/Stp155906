@@ -37,20 +37,6 @@
 </a>
 
 
-         
-         
-          
-<p align="center">
-<a href="https://www.linkedin.com/in/khaijah-amusat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://twitter.com/_khadeeejah/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
- <a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
-<a href="mailto:wuraola81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p><br>
-
-
-
-
 
 
 https://github.com/Stp155906/Stp155906/assets/71754706/a1f0350b-d816-4b83-bdfb-6cf13e1b52f5
