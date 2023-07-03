@@ -177,7 +177,7 @@ https://github.com/Stp155906/ReadMe/assets/71754706/a2e57413-4e45-460a-a71a-23cf
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-🔭 I am a Fellow at [JPL NASA Earth System Teleconnections](https://science.jpl.nasa.gov/people/Teleconnections), focusing on Natural Language Processing and Deep Learning. <br>
+🔭 I am a Former Fellow at [JPL NASA Earth System Teleconnections](https://science.jpl.nasa.gov/people/Teleconnections), focusing on Natural Language Processing and Deep Learning. <br>
 
 🚀 Full Stack Developer with special expertise in AI and UX Design, and a strong advocate for women in tech. <br>
 
@@ -195,7 +195,7 @@ https://github.com/Stp155906/ReadMe/assets/71754706/a2e57413-4e45-460a-a71a-23cf
 
 🔬 I’m currently working on diverse projects in AI and UX Design. Open to Full Stack Developer roles and UX Designer roles. <br>
 
-⚡ Fun fact: Aside from tech, I served in the United States Navy Corps for 5 years and I am a part-time fitness instructor at [Airborne Gymnastics Academy](https://airbornegym.com/).<br>
+⚡ Fun fact: Aside from tech, I served in the United States Navy Corps for 5 years and I was a part-time fitness instructor at [Airborne Gymnastics Academy](https://airbornegym.com/).<br>
 
 
 __________________________________________
