@@ -46,10 +46,7 @@
 </p><br>
 
 
-  <div align="center">
-  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
-</a>
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FULLSTACK+DEVELOPER;AI+ENGINEER;DEVELOPER+ADVOCATE;MACHINE-LEARNING+IOS)](https://git.io/typing-svg)
 
 
