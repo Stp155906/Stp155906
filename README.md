@@ -1,6 +1,3 @@
-![Get the We Heart It app!](https://github.com/Stp155906/Stp155906/assets/71754706/d36600b9-17bb-4701-ae72-7666c7b04b90)
-
-![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
 
 ![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
 
