@@ -27,13 +27,12 @@
 ![SWIFT](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=7710ee) 
-![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=0079f2) 
-![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=3ec7be) 
 ![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
-![JAVA](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
-![PYTHON](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
-
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white)
 <!-- SOCIALS -->
  
 ## ❤ Connect with me:
