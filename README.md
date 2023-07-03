@@ -36,7 +36,7 @@
 
 <!-- SOCIALS -->
  
-## 🌸 Connect with me
+## ❤ Connect with me:
 <a target="_blank" href="">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
 </a>
@@ -247,26 +247,9 @@ __________________________________________
 <br/>
 <br/>
 
-## Connect with me:
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/shantalia-perez-ba60a6212/
-"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/ms.shantalia/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
-</p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Stp155906">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Stp155906?label=Followers&style=social" alt="GitHub Badge"></a>
-     
- <h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/Stp155906/count.svg" />
-</h3>
 
 </body>
 
