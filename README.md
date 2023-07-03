@@ -3,6 +3,17 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FULLSTACK+DEVELOPER;AI+ENGINEER;DEVELOPER+ADVOCATE;MACHINE-LEARNING+IOS)](https://git.io/typing-svg)
 
 
+## 🌙 Hi, I'm Shantalia
+
+
+- 🌱 Fellow at JPL NASA Earth System Teleconnections. Focused on Natural Language Processing and Deep Learning.
+  
+- ⚡ Passionate Full Stack Developer, specializing in AI and UX Design. Advocate for women in tech. 🚺
+  
+- 👨‍💻 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
+  
+- 📫 Get in touch via email: stkperez42@gmail.com
+  
 <!-- TECHNOLOGIES -->
  
 ## 🌿 Technologies
@@ -42,16 +53,6 @@
 https://github.com/Stp155906/Stp155906/assets/71754706/a1f0350b-d816-4b83-bdfb-6cf13e1b52f5
 
 
-## 🌙 Hi, I'm Shantalia
-
-
-- 🌱 Fellow at JPL NASA Earth System Teleconnections. Focused on Natural Language Processing and Deep Learning.
-  
-- ⚡ Passionate Full Stack Developer, specializing in AI and UX Design. Advocate for women in tech. 🚺
-  
-- 👨‍💻 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
-  
-- 📫 Get in touch via email: stkperez42@gmail.com
 
 ## 🚀 Skills and Tools: 
 - Languages: Java, C++, Xcode, Swift, HTML, CSS, JavaScript (ES6)
