@@ -1,23 +1,281 @@
-
-
-<Head>
- 
 ![Get the We Heart It app!](https://github.com/Stp155906/Stp155906/assets/71754706/d36600b9-17bb-4701-ae72-7666c7b04b90)
-</Head>
-<body style="background: linear-gradient(180deg, #1B0B3C 20.31%, #AF19B3 100%);
-background-blend-mode: overlay;
-background: radial-gradient(19.49% 58.52% at 50% 0%, rgba(249, 196, 60, 0.3) 0%, rgba(231, 166, 1, 0) 100%);
-background: radial-gradient(50% 50% at 100% 100%, #520AEB 10.27%, rgba(159, 115, 255, 0) 100%);
-background: radial-gradient(77.86% 77.86% at 100% 0%, #00A7FF 0%, rgba(0, 166, 254, 0.12) 100%);
-background-blend-mode: color-dodge;
-background: radial-gradient(50% 50% at 0% 0%, #AE3BD7 0%, rgba(61, 220, 182, 0.6) 100%);
-background: radial-gradient(70.24% 70.24% at 0% 100%, #E81D72 0%, rgba(255, 0, 0, 0) 100%);
-background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.10%);
- ">
+
+![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
+
+![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FULLSTACK+DEVELOPER;BLOCKCHAIN+ENGINEER;DEVELOPER+ADVOCATE;MACHINE-LEARNING+IOS)](https://git.io/typing-svg)
+
+
+
+ 
+
+## 🌙 Hi, I'm Shantalia
+
+- 🌱 JPL NASA Earth System Teleconnections Fellowship Researcher 
+
+I currently:
+
+- am ready to work with you :) \~[hire me](mailto:alexmerona@gmail.com)\~
+- build full stack apps
+- teach others how to build full stack apps
+- manage communities, bc I believe the human purpose is connection
+
+Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I very much enjoy reading philosophy. <br>
+I made it out of a very adverse childhood, and as a woman of color with disabilities, I face many challenges. But in turn, I have gained fathomless empathy and I have an incredibly diverse perspective to share. You can see glimpses of this through my [twitter](https://twitter.com/alexisintech) or my [linkedin](https://linkedin.com/in/alexisintech). And there's a little bit more about me on my [portfolio](https://alexisin.tech).
+
+<!-- PROJECTS -->
+<!-- 
+## ☁ Projects
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Personal Portfolio</h2>
+				<div align="center" >  
+					<a href='https://alexisin.tech'>
+						<img src="https://github.com/alexisintech/portfolio/blob/main/public/portfolio.gif" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/alexisintech/portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://alexisin.tech" target="_blank">
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
+						</a>	
+					</p>
+					<p><strong>React, Tailwind, TypeScript, Next.js</strong> - Come get to know me a little and see a few of my projects.</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Mindfully</h2>
+				<div align="center" >  
+					<a href='https://mindfully.up.railway.app/'>
+						<img src="https://github.com/alexisintech/mindfully/blob/main/public/imgs/mindfully.gif" height="80%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/alexisintech/mindfully" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://mindfully.up.railway.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
+						</a>	
+					</p>
+					 <p><strong>EJS, Bootstrap, Express, Node, MongoDB + Mongoose, JavaScript</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Seize The Day</h2>
+				<div align="center" >  
+					<a href='https://github.com/alexisintech/seize-the-day'>
+						<img src="https://github.com/alexisintech/seize-the-day/blob/main/client/public/imgs/new-seize-the-day.gif" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/alexisintech/seize-the-day" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://seize-the-day.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
+						</a>	
+					</p>
+					<p><strong>React, Material UI, Express, Node, MongoDB + Mongoose, JavaScript</strong> - An app for organizing your goals and accomplishments. </p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">CSS Generators API</h2>
+				<div align="center" >  
+					<a href='https://cssgenerators.co/'>
+						<img src="https://github.com/alexisintech/css-generators-api/blob/main/public/assets/cssgenerators.gif" height="80%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/the-api-administration/css-generators-api" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://cssgenerators.co/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
+						</a>	
+					</p>
+					 <p><strong>EJS, Express, Node, JavaScript</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div> -->
+
+<!-- TECHNOLOGIES -->
+ 
+## 🌿 Technologies
+
+![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
+![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
+![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=7710ee) 
+![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=0079f2) 
+![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=3ec7be) 
+![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
+![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
+![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
+
+<!-- SOCIALS -->
+ 
+## 🌸 Connect with me
+<a target="_blank" href="https://alexisin.tech">
+  <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
+</a>
+<a target="_blank" href="https://twitter.com/alexisintech">
+  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/alexisintech/">
+  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
+</a>
+<a target="_blank" href="https://wellfound.com/u/alexis-aguilar-2">
+  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
+</a>
+
+         
+         
+          
+<p align="center">
+<a href="https://www.linkedin.com/in/khaijah-amusat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://twitter.com/_khadeeejah/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+ <a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
+<a href="mailto:wuraola81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p><br>
+
+
+  <div align="center">
+  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
+</a>
+
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+🍁 I am building [Delibra](https://delibra.xyz/), a decentralized library/bookstore. <br>
+
+👩‍Google's Women Tech Maker Ambassador, and Chimoney Ambassador <br>
+
+👯Volunteered at different tech events as a Dev Advocate and organiser<br>
+
+👑Hackathon Winner and Open Source Contributor for repositories affiliated with personal, learning, community, and organization projects. <br>
+
+📖  I’m learning Typescript, Solidity and Rust at the moment. <br>
+
+💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my Tiktok and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
+
+ 
+💬 Ask me about : Technical writing, frontend development, and Web 3 <br> 
+
+🤟I love traveling, listening to music , reading, and networking <br>  
+
+🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles<br>
+
+⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
+
+<img align="left"  width="150" height="150" src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
+
+
+<img align="right" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
 
 
 
 
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  
+  
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Khadeeejah&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+
+
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
+
+&nbsp;
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Technologies I Work With :**
+![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-38B4AC?style=for-the-badge&logo=GSAP&logoColor=white)
+
+<details>
+  <summary>See More</summary>
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+
+  </details>      
+  
+  
+  ## 📱 Apps I use
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+
+ 
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
+- [Understanding zkEVM](https://khadeeejah.hashnode.dev/understanding-zkevm)
+- [Contributing to Chimoney&#39;s Api](https://khadeeejah.hashnode.dev/contributing-to-chimoneys-api)
+- [My  Chisquad Journey 🤑](https://khadeeejah.hashnode.dev/my-chisquad-journey)
+- [My Latest Project....](https://khadeeejah.hashnode.dev/my-latest-project)
+<!-- BLOG-POST-LIST:END -->
+<br>
+
+ 
+<h2>✍🏽 Sign Out</h2>
+<h3>Please leave me a cool note. <a href="https://github.com/Khadeeejah/Khadeeejah/issues/new?template=guestbook-entry.md">here</a>!</h3>
+
+                 
+       
+                                 
+![snake gif](https://github.com/Khadeeejah/Khadeeejah/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--
+**Khadeeejah/Khadeeejah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🌱 JPL NASA Earth System Teleconnections Fellowship Researcher  
