@@ -1,4 +1,4 @@
-<body style="background: linear-gradient(180deg, #1B0B3C 20.31%, #AF19B3 100%);
+![Assassins can fly](https://github.com/Stp155906/Stp155906/assets/71754706/31d8d290-9fbb-417a-bb35-45d0c197f78f)<body style="background: linear-gradient(180deg, #1B0B3C 20.31%, #AF19B3 100%);
 background-blend-mode: overlay;
 background: radial-gradient(19.49% 58.52% at 50% 0%, rgba(249, 196, 60, 0.3) 0%, rgba(231, 166, 1, 0) 100%);
 background: radial-gradient(50% 50% at 100% 100%, #520AEB 10.27%, rgba(159, 115, 255, 0) 100%);
@@ -9,14 +9,12 @@ background: radial-gradient(70.24% 70.24% at 0% 100%, #E81D72 0%, rgba(255, 0, 0
 background: linear-gradient(176.31deg, #0A0323 6.7%, #301765 55.24%, #6D138C 96.10%);
  ">
 
-<p align="center"> 
-<a href="#"><img width="40%" height="auto" src="Screen Shot 2021-09-14 at 8.48.04 PM.png" height="175px"/></a>
-</p>
 
 
 
-<p align = "center">
-________________________________________________________________________________________________________________________________________________
+
+
+
 
 - 🌱 JPL NASA Earth System Teleconnections Fellowship Researcher  
 
@@ -57,9 +55,6 @@ ________________________________________________________________________________
 
   <br/>
   <a href="https://github.com/Stp155906/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stp155906&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
-
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
