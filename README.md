@@ -1,3 +1,8 @@
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FULLSTACK+DEVELOPER;AI+ENGINEER;DEVELOPER+ADVOCATE;MACHINE-LEARNING+IOS)](https://git.io/typing-svg)
+
+
 <!-- TECHNOLOGIES -->
  
 ## 🌿 Technologies
@@ -46,8 +51,6 @@
 </p><br>
 
 
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FULLSTACK+DEVELOPER;AI+ENGINEER;DEVELOPER+ADVOCATE;MACHINE-LEARNING+IOS)](https://git.io/typing-svg)
 
 
 
