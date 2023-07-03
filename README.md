@@ -1,27 +1,90 @@
+<!-- TECHNOLOGIES -->
+ 
+## 🌿 Technologies
+
+![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
+![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
+![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=7710ee) 
+![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=0079f2) 
+![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=3ec7be) 
+![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
+![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
+![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
+
+<!-- SOCIALS -->
+ 
+## 🌸 Connect with me
+<a target="_blank" href="https://alexisin.tech">
+  <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
+</a>
+<a target="_blank" href="https://twitter.com/alexisintech">
+  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/alexisintech/">
+  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
+</a>
+<a target="_blank" href="https://wellfound.com/u/alexis-aguilar-2">
+  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
+</a>
+
+         
+         
+          
+<p align="center">
+<a href="https://www.linkedin.com/in/khaijah-amusat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://twitter.com/_khadeeejah/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+ <a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
+<a href="mailto:wuraola81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p><br>
 
 
+  <div align="center">
+  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
+</a>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FULLSTACK+DEVELOPER;AI+ENGINEER;DEVELOPER+ADVOCATE;MACHINE-LEARNING+IOS)](https://git.io/typing-svg)
 
 
- 
 
-https://github.com/Stp155906/ReadMe/assets/71754706/a2e57413-4e45-460a-a71a-23cf82a4795b 
 
+https://github.com/Stp155906/Stp155906/assets/71754706/a1f0350b-d816-4b83-bdfb-6cf13e1b52f5
 
 
 ## 🌙 Hi, I'm Shantalia
 
-- 🌱 JPL NASA Earth System Teleconnections Fellowship Researcher 
 
-I currently:
+- 🌱 Fellow at JPL NASA Earth System Teleconnections. Focused on Natural Language Processing and Deep Learning.
+  
+- ⚡ Passionate Full Stack Developer, specializing in AI and UX Design. Advocate for women in tech. 🚺
+  
+- 👨‍💻 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
+  
+- 📫 Get in touch via email: stkperez42@gmail.com
 
-- am ready to work with you :) \~[hire me](mailto:alexmerona@gmail.com)\~
-- build full stack apps
-- teach others how to build full stack apps
-- manage communities, bc I believe the human purpose is connection
+## 🚀 Skills and Tools: 
+- Languages: Java, C++, Xcode, Swift, HTML, CSS, JavaScript (ES6)
+- Frameworks/Libraries: React.js, Node.js, Express.js, TensorFlow, PyTorch, Keras, Scikit-learn
+- Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+- AI & Machine Learning: NLP (Natural Language Processing)
+- Cloud Computing: AWS, Google Cloud
+- Design Tools: Figma, Adobe Creative Cloud apps, Adobe XD, Sketch
+- Testing: Selenium
+- Other: Docker, Kubernetes, Git, GitHub
+- Also familiar with microcontroller boards and basic circuit assembly
 
-Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I very much enjoy reading philosophy. <br>
-I made it out of a very adverse childhood, and as a woman of color with disabilities, I face many challenges. But in turn, I have gained fathomless empathy and I have an incredibly diverse perspective to share. You can see glimpses of this through my [twitter](https://twitter.com/alexisintech) or my [linkedin](https://linkedin.com/in/alexisintech). And there's a little bit more about me on my [portfolio](https://alexisin.tech).
+
+
+https://github.com/Stp155906/ReadMe/assets/71754706/a2e57413-4e45-460a-a71a-23cf82a4795b 
+
+
 
 <!-- PROJECTS -->
 <!-- 
@@ -32,7 +95,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 			<td width="50%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
-					<a href='https://alexisin.tech'>
+					<a href='[https://alexisin.tech](https://portfoliokitty.framer.website/)'>
 						<img src="https://github.com/alexisintech/portfolio/blob/main/public/portfolio.gif" height="100%" />
 					</a>
 					<br>
@@ -111,58 +174,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 	</table>
 </div> -->
 
-<!-- TECHNOLOGIES -->
- 
-## 🌿 Technologies
 
-![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
-![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=7710ee) 
-![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=0079f2) 
-![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=3ec7be) 
-![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
-![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
-![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
-
-<!-- SOCIALS -->
- 
-## 🌸 Connect with me
-<a target="_blank" href="https://alexisin.tech">
-  <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
-</a>
-<a target="_blank" href="https://twitter.com/alexisintech">
-  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/alexisintech/">
-  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
-</a>
-<a target="_blank" href="https://wellfound.com/u/alexis-aguilar-2">
-  <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
-</a>
-
-         
-         
-          
-<p align="center">
-<a href="https://www.linkedin.com/in/khaijah-amusat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://twitter.com/_khadeeejah/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
- <a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
-<a href="mailto:wuraola81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p><br>
-
-
-  <div align="center">
-  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
-</a>
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
