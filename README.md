@@ -236,17 +236,11 @@ __________________________________________
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-    <a href="https://github.com/Stp155906/github-readme-stats"><img alt="Shantalia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Stp155906&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
 
-<a href="https://github.com/Stp155906/github-readme-activity-graph"><img alt="Shantalia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Stp155906&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
-
-
-
 
 
 </body>
