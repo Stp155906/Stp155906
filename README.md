@@ -6,7 +6,7 @@
 ## 🌙 Hi, I'm Shantalia
 
 
-- 🌱 Former Fellow at JPL NASA Earth System Teleconnections. Focused on Natural Language Processing and Deep Learning.
+- 🌱 Former Intern Fellow at JPL NASA Earth System Teleconnections. Focused on Natural Language Processing and Deep Learning.
   
 - ⚡ Passionate Full Stack Developer, specializing in AI and UX Design. Advocate for women in tech. 🚺
   
