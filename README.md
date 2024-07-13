@@ -12,8 +12,7 @@
   
 - 👨‍💻 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
   
-- 📫 Get in touch via email: stkperez42@gmail.com
-  
+- 📫 Get in touch via email: shantalia.IOSDEV@gmail.com
 <!-- TECHNOLOGIES -->
  
 ## 🌿 Technologies
