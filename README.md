@@ -6,11 +6,12 @@
 ## 🌙 Hi, I'm Shantalia
 
 
-- 🌱 Former Intern Fellow at JPL NASA Earth System Teleconnections. Focused on Natural Language Processing and Deep Learning.
+
+- 🌱 Former Intern Fellow at JPL NASA Earth System Teleconnections | Data Visualization Department
   
-- ⚡ Passionate Full Stack Developer, specializing in AI and UX Design. Advocate for women in tech. 🚺
+- ⚡ Passionate Full Stack Developer, specializing in IOS, API's, and Interactive Design. Advocate for women in tech. 🚺
   
-- 👨‍💻 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
+- 👩🏻‍💻 Connect with me on LinkedIn:  [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
   
 - 📫 Get in touch via email: shantalia.IOSDEV@gmail.com
 <!-- TECHNOLOGIES -->
@@ -170,9 +171,9 @@ https://github.com/Stp155906/ReadMe/assets/71754706/a2e57413-4e45-460a-a71a-23cf
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-🔭 I am a Former Fellow at [JPL NASA Earth System Teleconnections](https://science.jpl.nasa.gov/people/Teleconnections), focusing on Natural Language Processing and Deep Learning. <br>
+🔭 I am a Former Fellow at [JPL NASA Earth System Teleconnections](https://science.jpl.nasa.gov/people/Teleconnections) <br>
 
-🚀 Full Stack Developer with special expertise in AI and UX Design, and a strong advocate for women in tech. <br>
+🚀 Full Stack Developer with special expertise in IOS Development, UX Design and Animation, and a strong advocate for women in tech. <br>
 
 🎓 Currently pursuing a Bachelor of Science in Computer Science from California State University Northridge. <br>
 
@@ -182,7 +183,7 @@ https://github.com/Stp155906/ReadMe/assets/71754706/a2e57413-4e45-460a-a71a-23cf
 
 💪 I am eager to acquire new knowledge and improve my skills. I'm developing my online presence by sharing my journey and insights on LinkedIn, aiming to inspire and assist aspiring developers in the tech industry. <br>  
 
-💬 Ask me about: Full Stack Development, UX Design, and AI <br> 
+💬 Ask me about: Full Stack Development, IOS , UX Design, and Animation <br> 
 
 🌏 I love traveling, learning new languages, and networking. <br>  
 
@@ -202,7 +203,7 @@ __________________________________________
 
 - 🌱 JPL NASA Earth System Teleconnections Fellowship Researcher  
 
--  ⚡ Full Stack AI + 🔥 UX Developer + ✨ Feminista
+-  ⚡ Full Stack IOS + 🔥 Technical Designer ✨ 
 
 - 👨‍💻 Linkedin **[My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/
 )**
