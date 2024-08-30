@@ -9,7 +9,7 @@
 
 - 🌱 Former Intern Fellow at JPL NASA Earth System Teleconnections | Data Visualization Department
   
-- ⚡ Passionate Full Stack Developer, specializing in IOS, API's, and Interactive Design. Advocate for women in tech. 🚺
+- ⚡ Passionate Full Stack SWE, Aspiring Technical Designer, specializing in IOS, API's, and Interactive Design. Advocate for women in tech. 🚺
   
 - 👩🏻‍💻 Connect with me on LinkedIn:  [My LinkedIn](https://www.linkedin.com/in/shantalia-perez-ba60a6212/)
   
