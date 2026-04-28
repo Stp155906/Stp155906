@@ -19,8 +19,8 @@
 🌱 Former Intern at **NASA JPL – Earth System Teleconnections (Data Visualization)**  
 ⚡ Passionate about building **intelligent, design-forward systems using real-world data**  
 📫 Contact: **shantalia.IOSDEV@gmail.com**
-
----
+###
+[LinkedIn](https://www.linkedin.com/in/shantalia-perez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)---
 
 ## 🎨 Design & Product Development
 
