@@ -6,6 +6,13 @@
 
 🚀 Full Stack Developer building across **iOS, AI systems, and data-driven applications**
 
+
+
+
+## 🌐 Featured Portfolio
+
+[Product Design & Development Portfolio](https://stp155906.github.io/digital-product-portfolio/)  
+UX/UI Design • Web Design • SwiftUI App Development
 ---
 
 ### 🔭 Current Focus
