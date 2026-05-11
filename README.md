@@ -15,19 +15,32 @@
 UX/UI Design • Web Design • SwiftUI App Development
 ---
 
-### 🔭 Current Focus
 
-- **iOS Development** — building modern, interactive apps with Swift & SwiftUI  
-- **OpenClaw + AI Workflows** — designing hybrid human/AI automation systems  
-- **Data Pipelines** — scraping, structuring, and delivering scalable JSON-based systems  
 
----
 
 🌱 Former Intern at **NASA JPL – Earth System Teleconnections (Data Visualization)**  
 ⚡ Passionate about building **intelligent, design-forward systems using real-world data**  
 📫 Contact: **shantalia.IOSDEV@gmail.com**
 ###
 [LinkedIn](https://www.linkedin.com/in/shantalia-perez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)---
+
+
+### Recent Projects
+---
+
+SignalMap AI
+---
+ I built an AI geospatial intelligence dashboard that aggregates NASA, USGS, and NOAA signals into decision-ready regional briefings for logistics, local government, insurance risk, campus safety, and humanitarian response teams. A live hazard intelligence dashboard with a map-based event layer, public data feeds, risk scoring, source-aware event cards, and role-specific decision lenses. React, Vite, Leaflet, NASA EONET, USGS earthquake feeds, NOAA/NWS alerts, Vercel. Built with Codex
+[signalmap-ai.vercel.app/](https://signalmap-ai.vercel.app/)
+
+
+SafeApply
+---
+ A free Chrome extension that scans the visible job page, generates a trust scorecard, and warns users before they send resumes, personal documents, bank details, or time to a suspicious posting. I open-sourced SafeApply because job-scam protection should be accessible, and because I wanted to build a practical AI safety tool that students could actually use. 
+ 
+https://safeapply-ai.vercel.app/
+
+---
 
 ## 🎨 Design & Product Development
 
